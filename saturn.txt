@@ -1,1 +1,2 @@
-Saturn is a planet. 
+Saturn is a planet.
+Saturn is a planet that is far away. 
